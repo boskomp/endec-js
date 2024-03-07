@@ -1,0 +1,22 @@
+{
+  "name": "endec-js",
+  "version": "1.0.0",
+  "description": "Encrypt and decrypt using AES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boskomp/endec-js.git"
+  },
+  "author": "boskomp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boskomp/endec-js/issues"
+  },
+  "homepage": "https://github.com/boskomp/endec-js#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
